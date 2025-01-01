@@ -9,3 +9,4 @@ Para executar um teste:
 ```
 go run . 01153000
 ```
+![image](https://github.com/user-attachments/assets/7ea3bf00-fd35-4fc4-b5eb-60bd8613b436)
